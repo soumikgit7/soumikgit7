@@ -324,6 +324,4 @@ This will give you a **designed layout**, roughly like:
 
           SYSTEM STATUS: ONLINE
                   C:\> _
-```
 
-**For your profile specifically**, I'd make it even more distinctive: **black CRT screen + phosphor-green text + scanlines + pixel/monospace typography + animated boot sequence + your actual projects**, instead of the usual "Hi, I'm X 👋" GitHub profile. That would fit the coder vibe you're after much better.
